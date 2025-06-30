@@ -1,4 +1,23 @@
 
+# Gaia Node QWEN2-0.5B Installation Guide
+
+Node Type: QWEN2-0.5B \
+OS: Ubuntu 20.04 / 22.04 / 24.04 \
+Spec: 4 Core CPU, 8 GB RAM 
+
+
+
+
+## Prerequisites
+
+Clean Ubuntu server (20.04–24.04) \
+User has $sudo access \
+At least 10GB+ disk space available
+
+## Register Gaia
+
+Open the link below to register your node and claim rewards:\
+👉 https://gaianet.ai/reward?invite_code=RfYVdd
 ## Setup Gaia Node
 
 #### 1. Uninstall Existing Gaia Node
